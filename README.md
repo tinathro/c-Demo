@@ -1,0 +1,1 @@
+The repository contains demo files of C++ practical lab exercises of EENG 371.
